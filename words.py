@@ -4,9 +4,8 @@ words.py
 Contains all word categories and the WordBank class used to select
 random words during the game.
 
-Each category is a list of uppercase strings. The WordBank class
-is a way for picking a random word from a chosen
-category or from options.
+Each category is a list of uppercase strings. The WordBank class is 
+a way for picking a random word from a chosen category or from options.
 
 """
 
