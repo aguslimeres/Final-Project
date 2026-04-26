@@ -4,10 +4,6 @@ hangman_logic.py
 Contains the HangmanLogic class, which manages all game-state logic
 independent of rendering: the secret word, guessed letters, win/loss
 detection, and remaining attempts.
-
-This separation of logic from display makes the code easier to test
-and extend.
-
 """
 
 class HangmanLogic:
